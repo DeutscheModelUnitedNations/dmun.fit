@@ -119,7 +119,7 @@ fn generate_name() -> String {
     )
 }
 
-// Generate a slug for the crab fit
+// Generate a slug for the DMUN fit
 fn generate_id(name: &str) -> String {
     let mut id = encode_name(name.to_string());
     if id.replace('-', "").is_empty() {

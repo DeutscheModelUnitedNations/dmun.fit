@@ -11,7 +11,7 @@ use utoipa::{
 // OpenAPI documentation
 #[derive(OpenApi)]
 #[openapi(
-    info(title = "Crab Fit API"),
+    info(title = "DMUN fit API"),
     paths(
         routes::stats::get_stats,
         routes::event::create_event,

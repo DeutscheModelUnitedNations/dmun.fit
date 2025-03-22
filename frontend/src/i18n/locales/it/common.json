@@ -1,10 +1,10 @@
 {
-  "name": "Crab Fit",
+  "name": "DMUN fit",
   "tagline": "Crea il tuo",
-  "cta": "Crea il tuo Crab Fit personale!",
+  "cta": "Crea il tuo DMUN fit personale!",
   "created": "{{date}} creato",
   "donate": {
-    "info": "Grazie per aver usato Crab Fit. Se ti piacesse, considera una donazione.",
+    "info": "Grazie per aver usato DMUN fit. Se ti piacesse, considera una donazione.",
     "button": "Dona",
     "title": "Qualsiasi importo fa la differenza :)"
   },
@@ -45,11 +45,11 @@
     },
     "colormap": {
       "label": "Colori della heatmap",
-      "classic": "Crab Fit (classico)"
+      "classic": "DMUN fit (classico)"
     }
   },
   "video": {
-    "title": "Video promozionale di Crab Fit",
+    "title": "Video promozionale di DMUN fit",
     "button": "Guarda il video"
   }
 }

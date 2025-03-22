@@ -33,7 +33,7 @@
   },
   "offline": {
     "title": "Estas desconectado",
-    "body": "Un Crab Fit no funciona sin conexión.<br />Asegúrate de estar conectado a Internet y vuelve a intentarlo."
+    "body": "Un DMUN fit no funciona sin conexión.<br />Asegúrate de estar conectado a Internet y vuelve a intentarlo."
   },
   "error": {
     "title": "Evento no encontrado",

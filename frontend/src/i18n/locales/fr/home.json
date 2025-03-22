@@ -38,15 +38,15 @@
   },
 
   "about": {
-    "name": "À propos de Crab Fit",
+    "name": "À propos de DMUN fit",
     "events": "Événements créés",
     "availabilities": "Disponibilités saisies",
     "content": {
-      "p1": "Crab Fit vous aide à adapter votre événement aux horaires de chacun·e. Créez simplement un événement ci-dessus et envoyez le lien à tous les participant·e·s. Les résultats sont mis à jour en direct et vous pourrez voir une carte thermique montrant quand tout le monde est libre.<1/><2>En savoir plus sur l'utilisation de Crab Fit</2>.",
-      "p3": "Créé par <1>Ben Grant</1>, Crab Fit est la solution moderne pour vos conflits de planification d'événements de groupe.",
-      "p4": "Le code de Crab Fit est open source. Si vous rencontrez des problèmes ou souhaitez contribuer, vous pouvez visiter le <1>dépôt</1>. En utilisant Crab Fit, vous acceptez notre <3>politique de confidentialité</3>.",
+      "p1": "DMUN fit vous aide à adapter votre événement aux horaires de chacun·e. Créez simplement un événement ci-dessus et envoyez le lien à tous les participant·e·s. Les résultats sont mis à jour en direct et vous pourrez voir une carte thermique montrant quand tout le monde est libre.<1/><2>En savoir plus sur l'utilisation de DMUN fit</2>.",
+      "p3": "Créé par <1>Ben Grant</1>, DMUN fit est la solution moderne pour vos conflits de planification d'événements de groupe.",
+      "p4": "Le code de DMUN fit est open source. Si vous rencontrez des problèmes ou souhaitez contribuer, vous pouvez visiter le <1>dépôt</1>. En utilisant DMUN fit, vous acceptez notre <3>politique de confidentialité</3>.",
       "p6": "Pour protéger votre vie privée, les événements sont supprimés après 3 mois d'inactivité, et tous les mots de passe sont cryptés de manière sécurisée.",
-      "p5": "Pensez à faire un don ci-dessous si Crab Fit vous a aidé·e, afin qu'il puisse rester gratuit pour tout le monde. 🦀"
+      "p5": "Pensez à faire un don ci-dessous si DMUN fit vous a aidé·e, afin qu'il puisse rester gratuit pour tout le monde. 🦀"
     },
     "chrome_extension": "Obtenez l'extension Chrome",
     "firefox_extension": "Obtenez l'extension Firefox",

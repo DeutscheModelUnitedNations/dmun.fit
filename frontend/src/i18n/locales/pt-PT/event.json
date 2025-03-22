@@ -33,7 +33,7 @@
   },
   "offline": {
     "title": "Estás offline",
-    "body": "O Crab Fit não funciona offline. <br />Verifica a tua ligação e tenta novamente."
+    "body": "O DMUN fit não funciona offline. <br />Verifica a tua ligação e tenta novamente."
   },
   "error": {
     "title": "Evento não encontrado",

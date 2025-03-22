@@ -1,12 +1,12 @@
 {
-  "name": "Como usar Crab Fit",
+  "name": "Como usar DMUN fit",
 
-  "p1": "Crab Fit é uma ferramenta para ajudar no agendamento de eventos com amigos ou reuniões com colegas. É simplesmente criar um evento colocar a sua disponibilidade, compartilhar e ver quando é bom para todos participantes.",
+  "p1": "DMUN fit é uma ferramenta para ajudar no agendamento de eventos com amigos ou reuniões com colegas. É simplesmente criar um evento colocar a sua disponibilidade, compartilhar e ver quando é bom para todos participantes.",
   "p2": "Veja aqui passo à passo como criar seu evento.",
 
   "s1": "Passo 1",
 
-  "p3": "Preenche os dados em <1>crab.fit</1> para criar seu evento. Escolhe um peíodo de tempo aproximado no qual o evento deve occorer, i.e. as possíveis datas e horários.  Sua disponibilidade pessoal será num outro passo.",
+  "p3": "Preenche os dados em <1>dmun.fit</1> para criar seu evento. Escolhe um peíodo de tempo aproximado no qual o evento deve occorer, i.e. as possíveis datas e horários.  Sua disponibilidade pessoal será num outro passo.",
   "p4": "Por exemplo \"Almoço de aniversário da Marina\". Ela quer convidar os amigos na mesma semana do seu aniversário no dia 15 de abril. Ela sabe que nem todo mundo tem tempo no dia 15 e tambêm não quer fazer no fim de semana.",
   "p5": "Marina quer que seja no horário do almoço, então não deve começar antes das 11 da manhã e nem terminar depois das 5 da tarde.",
 

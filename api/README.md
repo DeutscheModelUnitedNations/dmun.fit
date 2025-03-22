@@ -1,10 +1,10 @@
-# Crab Fit API
+# DMUN fit API
 
-This is the API for Crab Fit, written in Rust. It uses the [axum](https://crates.io/crates/axum) framework to run a HTTP server, and supports multiple storage adaptors.
+This is the API for DMUN fit, written in Rust. It uses the [axum](https://crates.io/crates/axum) framework to run a HTTP server, and supports multiple storage adaptors.
 
 ## API docs
 
-OpenAPI compatible API docs are generated using [utoipa](https://crates.io/crates/utoipa). You can visit them at [https://api.crab.fit/docs](https://api.crab.fit/docs).
+OpenAPI compatible API docs are generated using [utoipa](https://crates.io/crates/utoipa). You can visit them at [https://api.dmun.fit/docs](https://api.dmun.fit/docs).
 
 ## Storage adaptors
 

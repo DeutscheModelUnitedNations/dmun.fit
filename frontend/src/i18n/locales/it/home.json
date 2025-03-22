@@ -41,15 +41,15 @@
   },
 
   "about": {
-    "name": "Su Crab Fit",
+    "name": "Su DMUN fit",
     "events": "Evento creato",
     "availabilities": "disponibilità create",
     "content": {
-      "p1": "Crab Fit ti aiuta ad organizzare il tuo evento considerando le disponibilità di tutti. Crea semplicemente un evento ed invia il link a tutti i partecipanti. I dati si aggiornano sul momento e potrai vedere una heat-map di quando tutti siano disponibili.<1/><2>Altre informazioni su come usare Crab Fit</2>.",
-      "p3": "Creato da <1>Ben Grant</1>, Crab Fit è la soluzione moderna per le tue discussioni sull'organizzazione degli eventi di gruppo.",
-      "p4": "Il codice di Crab Fit è open source, se notassi un problema o volessi contribuire, visita il <1>repository</1>. Con l'utilizzo di Crab Fit accetti la <3>privacy policy</3>.",
+      "p1": "DMUN fit ti aiuta ad organizzare il tuo evento considerando le disponibilità di tutti. Crea semplicemente un evento ed invia il link a tutti i partecipanti. I dati si aggiornano sul momento e potrai vedere una heat-map di quando tutti siano disponibili.<1/><2>Altre informazioni su come usare DMUN fit</2>.",
+      "p3": "Creato da <1>Ben Grant</1>, DMUN fit è la soluzione moderna per le tue discussioni sull'organizzazione degli eventi di gruppo.",
+      "p4": "Il codice di DMUN fit è open source, se notassi un problema o volessi contribuire, visita il <1>repository</1>. Con l'utilizzo di DMUN fit accetti la <3>privacy policy</3>.",
       "p6": "Per proteggere la tua privacy, gli eventi vengono eliminati dopo 3 mesi di inattività, e tutte le password sono crittografate in modo sicuro.",
-      "p5": "Considera una donazione qui sotto se ti ha aiutato in modo che Crab Fit rimanga gratis per tutti. 🦀"
+      "p5": "Considera una donazione qui sotto se ti ha aiutato in modo che DMUN fit rimanga gratis per tutti. 🦀"
     },
     "chrome_extension": "Aggiungi l'estensione a Chrome",
     "firefox_extension": "Aggiungi l'estensione a Firefox",
