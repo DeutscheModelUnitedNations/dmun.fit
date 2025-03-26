@@ -17,10 +17,10 @@ RUN --mount=type=cache,target=/usr/local/cargo,from=rust:latest,source=/usr/loca
 FROM debian:bookworm-slim
 
 # install openSSL
-RUN set -ex; \
-    apt-get update -y ; \
-    apt-get install -y --no-install-recommends \
-      openssl
+# RUN set -ex; \
+#     apt-get update -y ; \
+#     apt-get install -y --no-install-recommends \
+#       openssl
 
 # Run as "app" user
 RUN useradd -ms /bin/bash app
