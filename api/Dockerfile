@@ -1,6 +1,6 @@
 # This dockerfile builds the API and runs it on a minimal container with the Datastore adaptor
 
-FROM rust:latest as builder
+FROM rust:slim-bookworm as builder
 
 # Install CA Certs for Hyper
 RUN apt-get install -y --no-install-recommends ca-certificates
@@ -11,10 +11,16 @@ COPY . .
 # Will build and cache the binary and dependent crates in release mode
 RUN --mount=type=cache,target=/usr/local/cargo,from=rust:latest,source=/usr/local/cargo \
     --mount=type=cache,target=target \
-    cargo build --release --features datastore-adaptor && mv ./target/release/crabfit-api ./api
+    cargo build --release --features sql-adaptor && mv ./target/release/crabfit-api ./api
 
 # Runtime image
-FROM debian:bullseye-slim
+FROM debian:bookworm-slim
+
+# install openSSL
+RUN set -ex; \
+    apt-get update -y ; \
+    apt-get install -y --no-install-recommends \
+      openssl
 
 # Run as "app" user
 RUN useradd -ms /bin/bash app
